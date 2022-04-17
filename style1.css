@@ -1,0 +1,226 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Bebas Neue', cursive;
+}
+header{
+    background-image: url(img/bg.png);
+    height: 600px;
+}
+
+/* navbar */
+.navbar-brand img{
+    width: 240px;
+}
+nav ul li a{
+    font-size: 14pt;
+    color: #42200B;
+    margin-top: 8px;
+}
+.bike{
+    margin-top: 8px;
+}
+.nav-p{
+    margin-top: 25px;
+    margin-left: 20px;
+    font-size: 14pt;
+    color: #42200B;
+}
+.h1{
+    float: left;
+    margin-top: 80px;
+}
+.h2 img{
+    top: -180px;
+    position: relative;
+    width: 950px;
+    padding-right: 80px;
+}
+
+/* section */
+
+/* id ( mide-content) it's a middle section    */
+#mide-content{
+    color: antiquewhite; 
+}
+/* first part */
+.s{
+    margin-top: 70px;
+}
+.s1{
+    float: left;
+}
+.s1 h4{
+    color: #ffffff;
+    position: relative;
+    top: -380px;
+    padding-left: 60px;
+    text-align: left;
+}
+.s1 h1{
+    color: #ffffff;
+    position: relative;
+    top: -395px;
+    padding-left: 60px;
+    text-align: left;
+}
+.s2{
+    overflow: hidden;
+}
+.s2-cell img{
+    margin-bottom: 37px;
+}
+.s2-cell h4{
+    color: #ffffff;
+    position: relative;
+    top: -200px;
+    padding-left: 60px;
+    text-align: left;
+}
+.s2-cell h1{
+    color: #ffffff;
+    position: relative;
+    top: -215px;
+    padding-left: 60px;
+    text-align: left;
+}
+.s2-cell:first-child{
+    margin-bottom: none;
+}
+.s2-cell:last-child{
+    position: relative;
+    top: -150px;
+}
+/* 2nd part */
+/* content */
+.content{
+    position: relative;
+    top: -160px;
+}
+.content h1{
+    color: #42200B;
+    font-size: 60px;
+    font-weight: bolder;
+}
+.content p{
+    color: #42200B;
+    font-size: 14pt;
+    width:80%;
+}
+/* card */
+
+.card-title{
+    color: #42200B;
+    font-size: 25pt;
+    font-weight: bold;
+}
+.card-text{
+    color: #42200B;
+    font-size: 14pt;
+    font-weight: lighter;
+}
+.carousel{
+    margin-top: 100px;
+}
+/* last content */
+/* .last-content h3{
+    color: #42200B;
+    position: relative;
+    top: -750px;
+    text-align: center;
+}
+.last-content h1{
+    color: #42200B;
+    position: relative;
+    top: -750px;
+    font-size: 50px;
+    font-weight: bolder;
+    letter-spacing: 8px;
+    text-align: center;
+} */
+/* form */
+
+form input{
+    width: 350px;
+    height: 50px;
+    border-radius: 4px;
+    border: 1px solid #bebebe;
+    margin: 20px;
+    padding-left: 15px;
+}
+/* .form{
+    position: relative;
+    top: -700px;
+    text-align: center;
+} */
+
+
+
+
+/* footer */
+.left-content{
+    float: left;
+    margin-top: 90px;
+}
+.left-content img{
+    margin-bottom: 50px;
+}
+.left-content p{
+    text-align: left;
+    color: #ffffff;
+    font-weight: thin;
+    letter-spacing: 3px;    
+    margin-bottom: 100px;
+}
+.right-content{
+    padding-top: 230px;
+}
+/* .img1{
+    float: left;
+}
+.img1 img{
+    margin-left: 300px;
+}
+.img1-p{
+    color: #ffffff;
+}
+.img1-p p{
+    padding-left: 350px;
+} */
+/* 
+.img2{
+    float: left;
+}
+.img2 img{
+    margin-left: 300px;
+}
+.img2-p{
+    color: #ffffff;
+}
+.img2-p p{
+    padding-left: 350px;
+}
+.rc2{
+    margin-bottom: 160px;
+} */
+.icon{
+    text-align: right;
+}
+.icon img{
+    margin-left: 10px;
+    margin-bottom: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
